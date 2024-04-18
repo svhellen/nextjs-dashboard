@@ -3,7 +3,7 @@ import LoginForm from '@/app/ui/login-form';
 import { Metadata } from 'next';
  
 export const metadata: Metadata = {
-  title: 'Login',
+  title: 'Create Invoice',
 };
  
 export default function LoginPage() {
